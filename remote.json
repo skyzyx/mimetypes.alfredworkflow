@@ -1,5 +1,5 @@
 {
-	"version": 1.0,
+	"version": 1.01,
 	"download_uri": "https://github.com/skyzyx/mimetypes.alfredworkflow/raw/master/mimetypes.alfredworkflow",
-	"description": "First release."
+	"description": "Minor updates to the list of supported file extensions."
 }
